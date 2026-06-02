@@ -10,6 +10,7 @@ Command line audio player specifically for uncompressed PCM wave files.
 Compressed formats require special libraries to decompress them leading to dependancies, and some formats are encoded leading to further dependancies. Hard drive capacity has increased to the point that storing audio files in an uncompressed PCM format can seem reasonable, and can make it very easy to read and play them.
 
 #Usage
+
 `waveplay FILES`
 
 Simple, isn't it.
